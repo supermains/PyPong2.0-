@@ -1,4 +1,5 @@
-# PyPong2.0-in-Man-machine-battle
-《父与子的编程之旅》PyPong游戏自编新版本（人机对决）
-这是《父与子的编程之旅--和小卡特一起学Python》的PyPong的游戏的翻版（人机对战）
-我还会更新1V1的PyPong游戏
+PyPong2系列游戏（自编，BSD）
+《父与子的编程之旅》PyPong游戏自编新版本（人机对垒，1V1乒乓比赛）
+这些是《父与子的编程之旅--和小卡特一起学Python》的PyPong的游戏的翻版
+先想出PyPong2.0(人机对垒)和PyPong2.1(1V1乒乓比赛)
+以后还会继续更新的
