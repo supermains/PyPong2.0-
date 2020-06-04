@@ -1,6 +1,7 @@
 # PyPong2.0 in Man machine battle
 # By zihao wen wen_zihao@qq.com
 # Released under a "Simplified BSD" license
+# Download address : https://github.com/2016haoxuesheng/PyPong2.0-
 
 from pygame.locals import *
 import pygame, sys
