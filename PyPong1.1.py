@@ -1,7 +1,7 @@
 # PyPong1.1:速战速决
 # 作者：17好学生(QQ名), 邮箱：wen_zihao@qq.com
 # 支持BSD开源协议,你们可以下载后更改代码
-# 下载地址:https://github.com/2016haoxuesheng/PyPong2.0-/tree/PyPong1.1
+# 下载地址:https://github.com/2016haoxuesheng/PyPong2.0-/blob/PyPong2.0_VS/PyPong1.1.py
 
 import pygame, sys
 
